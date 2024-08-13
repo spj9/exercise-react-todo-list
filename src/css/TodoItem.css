@@ -1,0 +1,57 @@
+.authortext {
+  color: whitesmoke;
+  font-size: 1rem;
+  text-align: right;
+}
+
+.datetext {
+  font-size: 1rem;
+  color: whitesmoke;
+  margin-top: 10px;
+}
+
+.checkbox {
+  align-items: center;
+  background-color: whitesmoke;
+  border-radius: 2px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  width: 18px;
+  height: 18px;
+}
+
+.container {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.delete {
+  color: whitesmoke;
+  cursor: pointer;
+  font-size: 2rem;
+}
+
+.done {
+  color: darkblue;
+  text-decoration: line-through;
+}
+
+.todoitem {
+  align-items: center;
+  background-color: rgb(72, 72, 110);
+  border-radius: 2px;
+  display: flex;
+  height: 4rem;
+  justify-content: space-between;
+  padding: 1rem;
+  width: 100%;
+}
+
+.todotext {
+  color: whitesmoke;
+  font-size: 1.5rem;
+}
+
+

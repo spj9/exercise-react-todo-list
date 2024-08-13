@@ -1,0 +1,15 @@
+
+.addButton {
+  background-color: green;
+  border-radius: 2px;
+  border: 1px;
+  padding: 0.7rem 1.5rem;
+  color: white;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.addButton:disabled {
+  cursor: not-allowed;
+  background-color: grey;
+}

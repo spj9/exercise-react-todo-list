@@ -1,0 +1,12 @@
+.todolist {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  gap: 1rem;
+  width: 100%;
+}
+
+.todolist h4 {
+  color: black;
+  text-align: center;
+}

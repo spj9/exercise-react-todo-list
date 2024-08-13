@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Courier New', Courier, monospace;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  align-items: flex-start;
+  background-color: lightgrey;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  padding-top: 10rem;
+}
